@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "date" : "Sun, Nov 19",
+        "gameNumber" : "Final · ODI 48 of 48",
+        "team1_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+        "team2_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "team1_name" : "India",
+        "team2_name" : "Australia",
+        "team1_score" : "450/2",
+        "team2_score" : "65/10",
+        "result" : "IND won by 385 runs",
+        "preview" : "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lkwfiRNWVDJQVpxV_192x108.jpg"
+    },
+    
+    {
+        "id": "2",
+        "date" : "Sun, Nov 19",
+        "gameNumber" : "Final · ODI 48 of 48",
+        "team1_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+        "team2_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "team1_name" : "India",
+        "team2_name" : "Australia",
+        "team1_score" : "450/2",
+        "team2_score" : "65/10",
+        "result" : "IND won by 385 runs",
+        "preview" : "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lkwfiRNWVDJQVpxV_192x108.jpg"
+    },
+    {
+        "id": "3",
+        "date" : "Sun, Nov 19",
+        "gameNumber" : "Final · ODI 48 of 48",
+        "team1_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+        "team2_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "team1_name" : "India",
+        "team2_name" : "Australia",
+        "team1_score" : "450/2",
+        "team2_score" : "65/10",
+        "result" : "IND won by 385 runs",
+        "preview" : "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lkwfiRNWVDJQVpxV_192x108.jpg"
+    },
+    {
+        "id": "4",
+        "date" : "Sun, Nov 19",
+        "gameNumber" : "Final · ODI 48 of 48",
+        "team1_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+        "team2_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "team1_name" : "India",
+        "team2_name" : "Australia",
+        "team1_score" : "450/2",
+        "team2_score" : "65/10",
+        "result" : "IND won by 385 runs",
+        "preview" : "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lkwfiRNWVDJQVpxV_192x108.jpg"
+    },
+    {
+        "id": "5",
+        "date" : "Sun, Nov 19",
+        "gameNumber" : "Final · ODI 48 of 48",
+        "team1_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+        "team2_flag" : "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "team1_name" : "India",
+        "team2_name" : "Australia",
+        "team1_score" : "450/2",
+        "team2_score" : "65/10",
+        "result" : "IND won by 385 runs",
+        "preview" : "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lkwfiRNWVDJQVpxV_192x108.jpg"
+    }
+]
