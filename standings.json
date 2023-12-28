@@ -1,0 +1,92 @@
+[
+    {
+        "country_name" : "IND",
+        "matches" : "9",
+        "win" : "9",
+        "loss" : "0",
+        "nrr" : "+2.570",
+        "points" : "18",
+        "last5" : [true, true, true, true, true]
+    },
+    {
+        "country_name" : "SA",
+        "matches" : "9",
+        "win" : "7",
+        "loss" : "2",
+        "nrr" : "+1.261",
+        "points" : "14",
+        "last5" : [true, false, true, true, true]
+    },
+    {
+        "country_name" : "AUS",
+        "matches" : "9",
+        "win" : "7",
+        "loss" : "2",
+        "nrr" : "+0.841",
+        "points" : "14",
+        "last5" : [true,true,true, true, true]
+    },
+    {
+        "country_name" : "NZ",
+        "matches" : "9",
+        "win" : "5",
+        "loss" : "4",
+        "nrr" : "+0.743",
+        "points" : "10",
+        "last5" : [true,false,false,false,false]
+    },
+    {
+        "country_name" : "PAK",
+        "matches" : "9",
+        "win" : "4",
+        "loss" : "5",
+        "nrr" : "-0.199",
+        "points" : "8",
+        "last5" : [false,true,true,false,false]
+    },
+    {
+        "country_name" : "AFG",
+        "matches" : "9",
+        "win" : "4",
+        "loss" : "5",
+        "nrr" : "-0.336",
+        "points" : "8",
+        "last5" : [false,false,true,true,true ]
+    },
+    {
+        "country_name" : "ENG",
+        "matches" : "9",
+        "win" : "3",
+        "loss" : "6",
+        "nrr" : "-0.572",
+        "points" : "6",
+        "last5" : [true,true,false,false,false]
+    },
+    {
+        "country_name" : "BAN",
+        "matches" : "9",
+        "win" : "2",
+        "loss" : "7",
+        "nrr" : "-1.087",
+        "points" : "4",
+        "last5" : [false,true,false,false,false]
+    },
+    {
+        "country_name" : "SL",
+        "matches" : "9",
+        "win" : "2",
+        "loss" : "7",
+        "nrr" : "-1.419",
+        "points" : "4",
+        "last5" : [false,false,false,false,true]
+    },
+    {
+        "country_name" : "NED",
+        "matches" : "9",
+        "win" : "2",
+        "loss" : "7",
+        "nrr" : "-1.825",
+        "points" : "4",
+        "last5" : [false,true,false,true,false]
+    }
+]
